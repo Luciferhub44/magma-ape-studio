@@ -1,0 +1,7 @@
+{
+  "name": "Magma Ape: High-Octane Concept Studio",
+  "description": "A professional character design studio for generating high-octane Urban Comic and Cyber-Fantasy art. Specializing in the 'Magma Ape' aesthetic with bold linework, cell-shading, and toxic neon palettes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
